@@ -1,3 +1,4 @@
 # Udacity Blog App
 
-a simple app to display a sample blog
+A demo app for git and Github.
+A simple app to display a sample blog.
